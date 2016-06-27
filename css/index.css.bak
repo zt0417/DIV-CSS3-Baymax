@@ -220,7 +220,7 @@ body{
 }
 
 .rightArm {
-	right: 44%;
+	right: 230px;
 	-webkit-transform: rotate(-25deg);
 	-moz-transform: rotate(-25deg);
 	-ms-transform: rotate(-25deg);
